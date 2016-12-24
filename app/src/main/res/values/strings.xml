@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Librarian</string>
+    <string name="search_hint">Search for books...</string>
+    <string name="search">Search</string>
+    <string name="text_check">Please enter valid search!</string>
+    <string name="no_internet">No Internet!</string>
+    <string name="no_data_text">Please check your spelling and enter a valid request.</string>
+    <string name="no_internet_text">Please check internet connection.</string>
+    <string name="book_image_description">book image</string>
+    <string name="press_search_icon">Press search icon or text field to start your search!</string>
+    <string name="valid_request">Please enter valid request.</string>
+</resources>
